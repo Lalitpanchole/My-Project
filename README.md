@@ -1,2 +1,2 @@
-# My-Project
-Jawa Script 
+let a = 5;
+console.log(a);
